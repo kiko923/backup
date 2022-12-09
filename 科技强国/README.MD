@@ -64,6 +64,15 @@ https://github.com/kiko923/backup/tree/main/%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD
 注释pushprint()
 
 
+下载以下工具并解压：
+(win环境工具) 下载地址: https://pan.baidu.com/s/1SnmXcCSeE2YT3Z8-Hey7yA 提取码 : wat7
+在解压完的目录里找到wxmedit.exe 并用wxmedit.exe 打开 chromedriver.exe
+搜索$cdc
+
+把cdc替换成abc，替换完成一定要 保存！
+
+
+进目录 添加权限chmod +775 chromedriver
 
 
 
